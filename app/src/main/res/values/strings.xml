@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TicTacToeApp</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="x_move">Begin</string>
+    <string name="makeMove">MakeMove</string>
+    <string name="empty" />
+    <string name="reset_message">Start Again</string>
+    <string name="game_name">Tic Tac Toe</string>
+    <string name="winner_x">Winner : X</string>
+    <string name="winner_o">Winner : O</string>
+    <string name="winner">"Winner :  "</string>
+</resources>
